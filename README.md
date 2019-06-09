@@ -1,11 +1,24 @@
 # mandaloid @ graffathon19
 
-Summer 2019 Graffathon demo Mandaloid. Link to youtube play
+Summer 2019 Graffathon demoscene 24H production Mandaloid.
+
+- YouTube: [Mandaloid](about:empty)
+
+### Technology
 
 Graphics are made using Processing. Music and visuals are synced with Rocket tool and Moonlander library.
 
-Used music: Vadora Chill Mix: Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/
+### Credits
+#### Team VaDOD - Graphics and Sync
+- [Ava Heinonen](https://github.com/AVRH)
+- [Heli Huhtilainen](https://github.com/apndx)
+- [Harri Mehtälä](https://github.com/hajame)
+- [Virva Svala](https://github.com/vsvala)
 
-Team vaDOD: Ava Heinonen, Heli Huhtilainen, Harri Mehtälä & Virva Svala 
+#### Music
+
+`'Vadora Chill Mix'` by Kevin MacLeod from [incompetech.com](https://incompetech.com)
+
+Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/
 
 <img src="https://github.com/hajame/mandaloid/blob/master/data/mandaloid.png" width="1000">
