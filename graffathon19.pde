@@ -357,7 +357,7 @@ void drawTitle(float x, int fontSize){
   textAlign(CENTER); 
   textSize(fontSize);
   fill(100);
-  text("MANDOLOID", x, 0); 
+  text("MANDALOID", x, 0); 
 }
 
 void drawMusicCredits(float x, int fontSize) {
