@@ -1,6 +1,6 @@
 # mandaloid @ graffathon19
 
-Summer 2019 Graffathon demoscene 24H production Mandaloid.
+Summer 2019 Graffathon demoscene 24H production Mandaloid. Placed 2nd in the Beginner compo.
 
 - YouTube: [Mandaloid](https://youtu.be/SxgrOZ1aThY)
 
