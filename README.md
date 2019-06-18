@@ -2,7 +2,7 @@
 
 Summer 2019 Graffathon demoscene 24H production Mandaloid.
 
-- YouTube: [Mandaloid](about:empty)
+- YouTube: [Mandaloid](https://youtu.be/SxgrOZ1aThY)
 
 ### Technology
 
