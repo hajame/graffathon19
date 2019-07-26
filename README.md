@@ -9,7 +9,7 @@ Summer 2019 Graffathon demoscene 24H production Mandaloid. Placed 2nd in the Beg
 Graphics are made using Processing. Music and visuals are synced with Rocket tool and Moonlander library.
 
 ### Credits
-#### Team VaDOD - Graphics and Sync
+#### Team vaDOD - Graphics and Sync
 - [Ava Heinonen](https://github.com/AVRH)
 - [Heli Huhtilainen](https://github.com/apndx)
 - [Harri Mehtälä](https://github.com/hajame)
